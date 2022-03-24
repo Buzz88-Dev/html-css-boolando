@@ -52,3 +52,42 @@ p {
     top: 10px;
     right: 0px;
 }
+
+.discount {
+    position: absolute;
+    background-color: red;
+    color: white;
+    padding: 5px;
+    left: 0;
+    bottom: 60px;
+}
+
+.discount p {
+    font-size: 15px;
+}
+
+.sostenibilita {
+    position: absolute;
+    background-color: green;
+    color: white;
+    padding: 5px;
+    left: 50px;
+    bottom: 60px;
+}
+
+.sostenibilita p {
+    font-size: 15px;
+}
+
+.sostenibilita2 {
+    position: absolute;
+    background-color: green;
+    color: white;
+    padding: 5px;
+    left: 0px;
+    bottom: 60px;
+}
+
+.sostenibilita2 p {
+    font-size: 15px;
+}
